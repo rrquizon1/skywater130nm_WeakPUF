@@ -1,4 +1,4 @@
-This repository contains the source files used for final requirements of EE 226. 
+This repository contains the source files used for final requirements of EE 226 at University of the Philippines Diliman. 
 The CMOS arbiter PUF described in [1] is implemented in XSCHEM and NGSPICE using sky130 nm architecture.
 
 References:
